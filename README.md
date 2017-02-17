@@ -6,4 +6,4 @@ Adapted loosely from python [scripts written](http://www.philosophyetc.net/2010/
 
 `ReturnPermissions.py` is used to return viewing permissions of the files to each student.
 
-I am currently looking for someone to help me convert what has been done here using the old Google Docs API to the [newer Google Drive API](https://developers.google.com/api-client-library/python/apis/drive/v2): I am unfamilliar with the new API, and my python knowledge is quite rusty.
+I am currently looking for someone to help me convert what has been done here using the now-defunct [Google Data Python Client Library API](http://code.google.com/p/gdata-python-client/downloads/list) to work with the [newer Google Drive Client Library API](https://developers.google.com/api-client-library/python/apis/drive/v2): I am unfamilliar with the new API, and my python knowledge is quite rusty.

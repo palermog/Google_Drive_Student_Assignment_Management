@@ -2,7 +2,7 @@ Originally adapted from python [scripts written](http://www.philosophyetc.net/20
 
 `Createdocs.py` creates a document for a given assignment, course and title designated in the script itself, for each student on an appropriately formatted class list on Google Sheets. Each student's document is shared individually with their Google account listed in the class list spreadsheet. Students paste the content of their assignments into the provided document.
 
-`RevokePermissions.py` is run at the deadline to revoke students' permission to edit or view their submissions while they are graded.
+`RemovePermissions.py` is run at the deadline to revoke students' permission to edit or view their submissions while they are graded.
 
 `ReturnPermissions.py` is used to return viewing permissions of the files to each student.
 
